@@ -6,4 +6,4 @@
 ### Speed code (Took me 6 hours)
 ### Only loading first 30 wallpapers, no pagination
 
-https://github.com/anirudhsharma392/wallpaper/blob/master/vid.mp4
+![](https://github.com/anirudhsharma392/wallpaper/blob/master/vid.gif)
