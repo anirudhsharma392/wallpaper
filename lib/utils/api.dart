@@ -8,9 +8,9 @@ class API {
   static const String _apiKey =
       "563492ad6f917000010000017b85671f88a84d9c91fa41bfdb4ce641";
 
-  ///url that returns a list of 15 photos
+  ///url that returns a list of 30 photos
   static const String _url =
-      'https://api.pexels.com/v1/curated?page=1&per_page=20';
+      'https://api.pexels.com/v1/curated?page=1&per_page=30';
 
   ///returns a list of photos or null in-case of error
   static Future<List<Photo>?> fetchPhotos() async {

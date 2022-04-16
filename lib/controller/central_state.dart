@@ -1,8 +1,7 @@
-import 'package:flutter/material.dart';
+
 import 'package:get/get.dart';
 import 'package:wallpaper/model/photo.dart';
 import 'package:wallpaper/utils/api.dart';
-import 'package:wallpaper/utils/background_method.dart';
 import 'package:wallpaper/utils/enums/status.dart';
 
 class CentralState extends GetxController {
