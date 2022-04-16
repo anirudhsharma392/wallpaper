@@ -83,8 +83,10 @@ class _SetDialogue extends StatelessWidget {
       if (status == Status.success) {
         showToast("Wallpaper set successfully");
         Get.back();
+        return;
       }
       showToast("Error occurred");
+      return;
     }
     showToast("Only supported on Android");
   }
